@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive - STIKOM Bali/courses/Semester 5/BIT205 - C++/Assignment/newNewAssignment/newCovidTest/cmake-build-debug/CMakeFiles/newCovidTest.dir
+C:/Users/User/OneDrive - STIKOM Bali/courses/Semester 5/BIT205 - C++/Assignment/newNewAssignment/newCovidTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive - STIKOM Bali/courses/Semester 5/BIT205 - C++/Assignment/newNewAssignment/newCovidTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
