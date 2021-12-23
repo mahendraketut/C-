@@ -1,0 +1,3 @@
+# C-CTIS
+There are many Covid-19 test centres that have been set up to manage Covid-19 testing. A Covid Testing Information System (CTIS) is required that to allow the health ministry to keep track of tests that have been performed by the various test centres.
+Patients that require testing may be of five types: “returnee”, “quarantined”, “close contact”, “infected”, or “suspected”. Testers at the medical centre will record when the test is administered and the results that are obtained. Patients can log in to the system to check on their results. Testers/Officers can also generate reports of the tests that they have performed
